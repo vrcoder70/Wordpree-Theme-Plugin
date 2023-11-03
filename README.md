@@ -14,7 +14,7 @@ The "Wordpree Theme Plugin" repository combines two projects: the "Sunset Vrcode
 
 ### Installation
 
-1. Download the theme zip file from the [latest release](https://github.com/Cyber-Vrcoder/Sunset-Vrcoder-Theme/releases).
+1. Download the theme zip file from the [latest release](https://github.com/vrcoder70/Wordpree-Theme-Plugin/tree/main/Theme).
 2. Log in to your WordPress admin panel.
 3. Go to Appearance > Themes.
 4. Click on the "Add New" button.
@@ -29,7 +29,7 @@ The "Wordpree Theme Plugin" repository combines two projects: the "Sunset Vrcode
 
 ### Support
 
-If you encounter any issues or have questions about using the "Sunset Vrcoder Theme," please visit the [GitHub Issues](https://github.com/Cyber-Vrcoder/Sunset-Vrcoder-Theme/issues) section.
+If you encounter any issues or have questions about using the "Sunset Vrcoder Theme," please visit the [GitHub Issues](https://github.com/vrcoder70/Wordpree-Theme-Plugin/tree/main/Theme) section.
 
 ## WP Book Plugin
 
@@ -41,7 +41,7 @@ If you encounter any issues or have questions about using the "Sunset Vrcoder Th
 
 ### Installation
 
-1. Download the plugin zip file from the [latest release](https://github.com/Cyber-Vrcoder/WP-Book-Plugin/releases).
+1. Download the plugin zip file from the [latest release](https://github.com/vrcoder70/Wordpree-Theme-Plugin/tree/main/Plugin).
 2. Log in to your WordPress admin panel.
 3. Go to Plugins > Add New.
 4. Click on the "Upload Plugin" button.
@@ -54,7 +54,7 @@ If you encounter any issues or have questions about using the "Sunset Vrcoder Th
 
 ### Support
 
-If you encounter any issues or have questions about using the "WP Book Plugin," please visit the [GitHub Issues](https://github.com/Cyber-Vrcoder/WP-Book-Plugin/issues) section.
+If you encounter any issues or have questions about using the "WP Book Plugin," please visit the [GitHub Issues](https://github.com/vrcoder70/Wordpree-Theme-Plugin/tree/main/Plugin) section.
 
 ## Contributing
 
